@@ -1,0 +1,20 @@
+# Environments
+venv/
+.env
+.env.enc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Config and Secrets
+# WARNING: These files contain passwords! 
+config.json
+theme_config.json
+
+# Temporary/Output files
+reports.csv
+top_performing_branches.txt
+scratch/
+C:/Users/Alyshah/.gemini/antigravity/brain/51c46a28-ee5c-4b42-8f54-398806a05969/
