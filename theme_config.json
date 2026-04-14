@@ -1,0 +1,88 @@
+{
+    "United King": {
+        "theme": {
+            "primary": "#cb191e",
+            "secondary": "#ffc81e",
+            "background": "#f7eeee",
+            "text_main": "#333333",
+            "text_light": "#FFFFFF",
+            "accent_success": "#25D366",
+            "accent_warning": "#FFC107",
+            "accent_danger": "#DC3545",
+            "chart_palette": [
+                "#cb191e",
+                "#ffc81e",
+                "#A8181F",
+                "#DAA50D",
+                "#7E1217",
+                "#B88B0B",
+                "#550C10",
+                "#967109"
+            ]
+        },
+        "branding": {
+            "company_logo_url": "https://salesanalytics.technosyserp.com/united_king_bakery/logo.jpeg",
+            "service_provider_logo_url": "https://salesanalytics.technosyserp.com/united_king_bakery/technosys_logo.png",
+            "show_powered_by": true
+        },
+        "icons": {
+            "kpi": {
+                "total_sales": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(5).png",
+                "today_sale": "https://salesanalytics.technosyserp.com/united_king_bakery/icon.png",
+                "mom_growth": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(1).png",
+                "gross_profit": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(4).png",
+                "avg_invoice": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(3).png",
+                "total_invoices": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(2).png"
+            },
+            "insights": {
+                "header": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(6).png",
+                "performance": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(7).png",
+                "channel": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(8).png",
+                "growth": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(9).png",
+                "strategic": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(10).png"
+            }
+        }
+    },
+    "Sample Client": {
+        "theme": {
+            "primary": "#4F46E5",
+            "secondary": "#10B981",
+            "background": "#F3F4F6",
+            "text_main": "#1F2937",
+            "text_light": "#FFFFFF",
+            "accent_success": "#10B981",
+            "accent_warning": "#F59E0B",
+            "accent_danger": "#EF4444",
+            "chart_palette": [
+                "#4F46E5",
+                "#10B981",
+                "#3B82F6",
+                "#F59E0B",
+                "#8B5CF6",
+                "#EC4899"
+            ]
+        },
+        "branding": {
+            "company_logo_url": "https://via.placeholder.com/200x200?text=Sample+Logo",
+            "service_provider_logo_url": "https://salesanalytics.technosyserp.com/united_king_bakery/technosys_logo.png",
+            "show_powered_by": true
+        },
+        "icons": {
+            "kpi": {
+                "total_sales": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(5).png",
+                "today_sale": "https://salesanalytics.technosyserp.com/united_king_bakery/icon.png",
+                "mom_growth": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(1).png",
+                "gross_profit": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(4).png",
+                "avg_invoice": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(3).png",
+                "total_invoices": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(2).png"
+            },
+            "insights": {
+                "header": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(6).png",
+                "performance": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(7).png",
+                "channel": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(8).png",
+                "growth": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(9).png",
+                "strategic": "https://salesanalytics.technosyserp.com/united_king_bakery/icon(10).png"
+            }
+        }
+    }
+}

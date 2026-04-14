@@ -11,10 +11,15 @@ __pycache__/
 # Config and Secrets
 # WARNING: These files contain passwords! 
 config.json
-theme_config.json
+config-original.json
 
 # Temporary/Output files
 reports.csv
 top_performing_branches.txt
 scratch/
 C:/Users/Alyshah/.gemini/antigravity/brain/51c46a28-ee5c-4b42-8f54-398806a05969/
+
+#other files 
+concise_email_template.html
+full_report_template.html
+full_report_template_customized.html

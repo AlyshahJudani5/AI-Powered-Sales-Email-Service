@@ -1,0 +1,113 @@
+{
+    "clients": [
+        {
+            "client_name": "Sample Client A",
+            "db_driver": "ODBC Driver 17 for SQL Server",
+            "db_server": "your-db-server,port",
+            "db_name": "your-database-name",
+            "db_user": "your-db-user",
+            "db_password": "your-db-password",
+            "days_after": 1,
+            "email_time": "06:00",
+            "data_time": "06:00:00.000",
+            "dashboard_url": "https://your-dashboard-url",
+            "title": "Daily Sales Report",
+            "default_recipients": [
+                "recipient1@example.com",
+                "recipient2@example.com"
+            ],
+            "customized_theme": 0,
+            "multi_category": 0,
+            "country": "PK",
+            "visibility": {
+                "charts": {
+                    "branch": 1,
+                    "channel": 1,
+                    "category": 1
+                },
+                "tables": {
+                    "branch": 1,
+                    "category": 1,
+                    "customer": 1
+                }
+            }
+        },
+        {
+            "client_name": "Sample Client B",
+            "db_driver": "ODBC Driver 17 for SQL Server",
+            "db_server": "your-db-server",
+            "db_name": "your-database-name",
+            "db_user": "your-db-user",
+            "db_password": "your-db-password",
+            "days_after": 1,
+            "email_time": "01:00",
+            "data_time": "01:00:00.000",
+            "dashboard_url": "",
+            "title": "Daily Performance Report",
+            "default_recipients": [
+                "recipient@example.com"
+            ],
+            "customized_theme": 0,
+            "multi_category": 0,
+            "country": "PK",
+            "visibility": {
+                "charts": {
+                    "branch": 1,
+                    "channel": 1,
+                    "category": 1
+                },
+                "tables": {
+                    "branch": 1,
+                    "category": 1,
+                    "customer": 1
+                }
+            }
+        },
+        {
+            "client_name": "Sample Client C (Multi Category)",
+            "db_driver": "ODBC Driver 17 for SQL Server",
+            "db_server": "your-db-server",
+            "db_name": "your-database-name",
+            "db_user": "your-db-user",
+            "db_password": "your-db-password",
+            "days_after": 1,
+            "email_time": "06:00",
+            "data_time": "06:00:00.000",
+            "dashboard_url": "https://your-dashboard-url",
+            "title": "Multi Category Sales Report",
+            "default_recipients": [
+                "recipient@example.com"
+            ],
+            "company_branches": [
+                {
+                    "CompanyBranchId": 1,
+                    "recipients": [
+                        "branch1@example.com",
+                        "manager@example.com"
+                    ]
+                },
+                {
+                    "CompanyBranchId": 2,
+                    "recipients": [
+                        "branch2@example.com"
+                    ]
+                }
+            ],
+            "customized_theme": 0,
+            "multi_category": 1,
+            "country": "SA",
+            "visibility": {
+                "charts": {
+                    "branch": 0,
+                    "channel": 1,
+                    "category": 1
+                },
+                "tables": {
+                    "branch": 0,
+                    "category": 1,
+                    "customer": 0
+                }
+            }
+        }
+    ]
+}
